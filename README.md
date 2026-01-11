@@ -1,8 +1,8 @@
 # Hybrid Intelligent Systems (HISs) Ontology
 
 [![Université de Lorraine](https://img.shields.io/badge/Institution-Université%20de%20Lorraine-red.svg)](https://www.univ-lorraine.fr/)
-[![Website](https://img.shields.io/badge/Author-mdtayyab.com-blue)](https://mdtayyab.com)
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Interactive-brightgreen)](https://nlpm1.rf.gd/ontology/)
+[![Website](https://img.shields.io/badge/Author-tayyab.io-blue)](https://tayyab.io)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Interactive-brightgreen)](https://tayyab.io/ontology/)
 [![Academic Project](https://img.shields.io/badge/Type-Academic%20Ontology-orange)](https://github.com)
 
 > **MSc in Natural Language Processing** - October 2025  
@@ -196,15 +196,6 @@ Neuro-symbolic_Systems
 - **Instructor**: Prof. Mathieu d'Aquin
 - **Date**: October 2025
 
-### Project Team
-
-- **Ibrahim Al Kotob**
-- **Melvyn Corvo**
-- **Mohammad Al Takach**
-- **Muhammad Tayyab** - [mdtayyab.com](https://mdtayyab.com)
-- **Seyedalireza Mirzadeh**
-
----
 
 ## 📚 Theoretical Foundations
 
@@ -280,7 +271,7 @@ Hybrid Intelligent Systems combine multiple AI paradigms to overcome limitations
 
 ### Exploring the Ontology
 
-1. **Visit the Live Demo**: [https://nlpm1.rf.gd/ontology/](https://nlpm1.rf.gd/ontology/)
+1. **Visit the Live Demo**: [https://tayyab.io/ontology/](https://tayyab.io/ontology/)
 2. **Click "Explore Ontology"** on the welcome screen
 3. **Navigate the tree**: Click nodes to expand/collapse
 4. **View details**: Click any node to see definitions in the right panel
@@ -315,32 +306,6 @@ This is an academic project for educational purposes. The ontology structure and
 
 ---
 
-## 📞 Contact
-
-**Muhammad Tayyab**  
-🌐 [mdtayyab.com](https://mdtayyab.com)  
-📧 muhammad.tayyab5@etu.univ-lorraine.fr
-
-**Project Demo**  
-🔗 [Interactive Ontology Browser](https://nlpm1.rf.gd/ontology/)
-
----
-
-## 📊 Citation
-
-If you reference this ontology in academic work, please cite:
-
-```bibtex
-@misc{alkotob2025his,
-  title={Hybrid Intelligent Systems (HISs) Ontology: An Interactive Taxonomy},
-  author={Al Kotob, Ibrahim and Corvo, Melvyn and Al Takach, Mohammad and Tayyab, Muhammad and Mirzadeh, Seyedalireza},
-  year={2025},
-  month={October},
-  institution={Université de Lorraine},
-  note={MSc in Natural Language Processing - Knowledge Representation Course},
-  url={https://nlpm1.rf.gd/ontology/}
-}
-```
 
 ---
 
