@@ -12,7 +12,7 @@
 
 An interactive, hierarchical taxonomy of **Hybrid Intelligent Systems**, their underlying AI paradigms, evaluation metrics, application methods, and domain-specific tasks with real-world instances.
 
-🔗 **[Explore Live Interactive Demo →](https://nlpm1.rf.gd/ontology/)**
+🔗 **[Explore Live Interactive Demo →](https://tayyab.io/ontology/)**
 
 ---
 
